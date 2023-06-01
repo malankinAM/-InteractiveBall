@@ -1,0 +1,20 @@
+canvas{
+    position:fixed;
+    top:0;
+    left:0;
+  }
+  body{
+    background: rgb(84,11,218);
+background: radial-gradient(circle, rgba(84,11,218,1) 0%, rgba(22,217,35,0.5690651260504201) 50%, rgba(125,12,125,1) 100%);
+  }
+
+  div {
+    
+ display: flex;
+ justify-content: center;
+ align-items: center;
+    font-size: 55px;
+    color: rgb(195, 241, 7);
+    background: rgb(84,11,218);
+    background: radial-gradient(circle, rgba(84,11,218,1) 0%, rgba(22,217,35,0.5690651260504201) 50%, rgba(125,12,125,1) 100%);
+  }
